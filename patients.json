@@ -1,0 +1,22 @@
+{
+    "P001": {
+        "name": "Jay kumar",
+        "city": "Unknown",
+        "age": 45,
+        "gender": "Male",
+        "height": 1.7,
+        "weight": 80.0,
+        "bmi": 27.68,
+        "verdict": "Overweight"
+    },
+    "P002": {
+        "name": "Priya Sharma",
+        "city": "Unknown",
+        "age": 32,
+        "gender": "Female",
+        "height": 1.6,
+        "weight": 55.0,
+        "bmi": 21.48,
+        "verdict": "Normal"
+    }
+}
